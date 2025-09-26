@@ -1,4 +1,4 @@
-#Hello, I am a Data Science & Psychology Undergraduate Student! 
+Thanks for visiting my /README! Things are currently under construction, but feel free to click the links below
 
 ## Past Projects Portfolio
 - **Tableau Projects** (under_construction)

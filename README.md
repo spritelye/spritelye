@@ -2,7 +2,7 @@ Thanks for visiting my /README! Things are currently under construction, but fee
 
 ## Past Projects Portfolio
 - **Tableau Projects** (under_construction)
-- [Power BI Projects](https://github.com/spritely/power_bi_test)
+- [Power BI Projects](https://github.com/spritelye/power_bi_test)
 - **R:** (under_construction)
 - **Python:** (under_construction)
 - **Writing Samples**(under_construction)
